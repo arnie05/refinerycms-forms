@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
 
   s.require_path   = 'lib'
 
-  s.add_dependency "refinerycms-core", "~> 4.0"
+  #s.add_dependency "refinerycms-core", "~> 4.0"
 
-  s.add_development_dependency "refinerycms-testing", "~> 4.0"
+  #s.add_development_dependency "refinerycms-testing", "~> 4.0"
 end
